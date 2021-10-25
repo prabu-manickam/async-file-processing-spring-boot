@@ -9,3 +9,6 @@ There are 2 endpoints exist in this logic,
 
 
 Find the demo recordings in the `/demo` folder to understand visually how this works
+
+Local Swagger UI : http://localhost:8080/swagger-ui/index.html
+Local H2 Console : http://localhost:8080/h2-console
